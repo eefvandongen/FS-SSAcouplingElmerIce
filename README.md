@@ -7,6 +7,8 @@ Documentation and installation instructions for Elmer/Ice are provided at http:/
 
 It is possible to access the version of Elmer/Ice including the coupling as discussed in the paper, 
 linked to a unique SHA, by using the following git command, after having cloned the Elmer repository:
+
 git checkout ba117583defafe98bb6fd1793c9c6f341c0c876 .
-or download the entire repository by
+
+or download the entire repository at
 https://github.com/ElmerCSC/elmerfem/archive/ba117583defafe98bb6fd1793c9c6f341c0c876.zip
