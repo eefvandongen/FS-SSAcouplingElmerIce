@@ -12,3 +12,6 @@ git checkout ba117583defafe98bb6fd1793c9c6f341c0c876 .
 
 or download the entire repository at
 https://github.com/ElmerCSC/elmerfem/archive/ba117583defafe98bb6fd1793c9c6f341c0c876.zip
+
+Meshfiles are provided in ./mesh2d, the coupling is performed in coupled.sif, using uppersurface.dat as input data.
+Results can be visualized in ParaView by ssa-fs.pvsm
